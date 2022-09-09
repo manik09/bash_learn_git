@@ -1,8 +1,8 @@
-# bash_learn_git
+## bash_learn_git
 This is the place practice and commit code in git
 
 
-# some of the git commands
-# git clone, git pull, git add fileName, git commit -m "msg", git push
+## some of the git commands
+## git clone, git pull, git add fileName, git commit -m "msg", git push
 
 
